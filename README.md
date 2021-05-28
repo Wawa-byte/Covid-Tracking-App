@@ -1,4 +1,6 @@
-Covid-Tracking-App
+# Covid-Tracking-App
+
+
 Second year Computer Science project
 
 Made using Java FX and JPA
